@@ -20,7 +20,6 @@ Gem::Specification.new do |spec|
   spec.required_ruby_version = '>= 1.9.3'
 
   spec.add_dependency 'middleman-core', '>= 3.2'
-  spec.add_dependency 'ptools'
   spec.add_dependency 'net-sftp'
 
   spec.add_development_dependency 'bundler', '~> 1.5'
